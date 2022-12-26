@@ -1,0 +1,84 @@
+{
+  "name": "WZFP 90.1FM",
+  "short_name": "WZFP 90.1FM",
+  "id": "com.WZFP.TheMaynards",
+  "description": "A Radio Station Based in Fort Payne, Alabama.\nWe play various Talk Shows & Music in all genres.\nThis is the streaming app for listening.",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "512.jpg",
+        "sizes": "20x20"
+      },{
+        "src": "512.jpg",
+        "sizes": "29x29"
+      },{
+        "src": "512.jpg",
+        "sizes": "36x36"
+      },{
+        "src": "512.jpg",
+        "sizes": "40x40"
+      },{
+        "src": "512.jpg",
+        "sizes": "48x48"
+      },{
+        "src": "512.jpg",
+        "sizes": "50x50"
+      },{
+        "src": "512.jpg",
+        "sizes": "57x57"
+      },{
+        "src": "512.jpg",
+        "sizes": "58x58"
+      },{
+        "src": "512.jpg",
+        "sizes": "60x60"
+      },{
+        "src": "512.jpg",
+        "sizes": "72x72"
+      },{
+        "src": "512.jpg",
+        "sizes": "76x76"
+      },{
+        "src": "512.jpg",
+        "sizes": "80x80"
+      },{
+        "src": "512.jpg",
+        "sizes": "87x87"
+      },{
+        "src": "512.jpg",
+        "sizes": "96x96"
+      },{
+        "src": "512.jpg",
+        "sizes": "100x100"
+      },{
+        "src": "512.jpg",
+        "sizes": "114x114"
+      },{
+        "src": "512.jpg",
+        "sizes": "120x120"
+      },{
+        "src": "512.jpg",
+        "sizes": "144x144"
+      },{
+        "src": "512.jpg",
+        "sizes": "152x152"
+      },{
+        "src": "512.jpg",
+        "sizes": "167x167"
+      },{
+        "src": "512.jpg",
+        "sizes": "180x180"
+      },{
+        "src": "512.jpg",
+        "sizes": "192x192"
+      },{
+        "src": "512.jpg",
+        "sizes": "512x512"
+      },{
+        "src": "512.jpg",
+        "sizes": "1024x1024"
+      }]
+}
