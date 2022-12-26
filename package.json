@@ -1,0 +1,22 @@
+{
+    "name": "wzfp_3290_461fm",
+    "displayName": "WZFP 90.1FM",
+    "version": "1.0.2",
+    "description": "WZFP 90.1FM",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "The Maynards",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
